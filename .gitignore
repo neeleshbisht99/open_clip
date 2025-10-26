@@ -151,3 +151,11 @@ core.*
 
 # Allow
 !src/evaluation/misc/results_dbs/*
+
+dataset/CUB_200_2011/
+
+dataset/cvpr2016_cub/
+
+dataset/segmentations/
+
+dataset/cub2002011.zip
